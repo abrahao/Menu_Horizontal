@@ -3,6 +3,8 @@
 	margin: 0px;
 	background-color: #EDEDED;
 	list-style: none;
+	width: 480px;
+
 }
 #menu ul li{
 	display: inline;
